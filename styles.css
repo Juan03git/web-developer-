@@ -1,0 +1,137 @@
+body
+{
+  color: #40514E;
+  margin: 0;
+ text-align: center;
+font-family: 'Comfortaa', sans-serif;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+   margin-top: 50px;
+  font-family: 'Rozha One', serif;
+}
+
+h2{
+   color: #66BFBF;
+    font-family: 'Rozha One', serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+  color: #11999E;
+  font-size: 2rem;
+}
+
+p{
+  line-height: 2;
+}
+
+.border-style{
+  border:dotted grey 6px;
+  width: 4%;
+  border-bottom: none;
+  margin: 100px auto;
+
+}
+
+.top-container{
+
+  background-color:#E4F9FF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  }
+
+  .bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+  }
+
+
+.middle-container{
+  margin: 100px 0;
+background-color: white;
+}
+
+.bio{
+width: 30%;
+margin: auto;
+}
+
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 50px;
+}
+.LinkedIn{
+  text-decoration: none;
+}
+.LinkedIn:hover{
+  color:white;
+}
+.Twitter{
+  text-decoration: none;
+  margin:auto 30px;
+}
+.Twitter:hover{
+  color:white
+}
+.website{
+  text-decoration: none;
+}
+.website:hover {
+  color: white;
+}
+a{
+  color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.man-and-computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.seal{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.name{
+  color: #EAF6F6;
+}
+.contact-P{
+  width: 30%;
+  margin: 10px auto 70px
+}
+.button{
+  background-color: #66BFBF;
+  border:none;
+  padding: 14px 40px;
+  color: white;
+  font-size: 20px;
+  font-family: serif;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.button:hover {
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.copy-right{
+  color:white;
+}
